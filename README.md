@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="assets/logo.png" alt="cody-parsons-logo.png" width="300"/>
-</p>
 
 # Cody Parsons  
 **Secure and Logical Validations for AI and Beyond**
 
 Strategic finance meets algorithmic integrity. Cody Parsons builds scalable APIs, decision engines, and validation frameworks for high-stakes environments—where precision isn’t optional and logic leads the way.
 
-![Binary CP Logo](binary-cp-logo.png)
+![Binary CP Logo](cody-parsons-logo)
 ## 🧰 Projects
 
 Here are a few tools and frameworks I’ve built or architected under the Cody Parsons identity:
