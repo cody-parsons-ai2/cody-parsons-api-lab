@@ -4,7 +4,6 @@
 
 Strategic finance meets algorithmic integrity. Cody Parsons builds scalable APIs, decision engines, and validation frameworks for high-stakes environments—where precision isn’t optional and logic leads the way.
 
-![Binary CP Logo](cody-parsons-logo)
 ## 🧰 Projects
 
 Here are a few tools and frameworks I’ve built or architected under the Cody Parsons identity:
