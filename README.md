@@ -19,3 +19,9 @@ Here are a few tools and frameworks I’ve built or architected under the Cody P
 
 - **DecisionIQ** *(in development)*  
   AI validation framework for high-stakes decision environments. Focused on logic-first architecture and scalable trust signals.
+## 📫 Contact
+
+For consulting inquiries, API collaborations, or strategic validation work:
+
+**Email**: [cody.parsons.ai2@proton.me](mailto:cody.parsons.ai2@proton.me)  
+**GitHub**: [github.com/codyparsons](https://github.com/codyparsons)
