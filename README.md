@@ -1,5 +1,6 @@
-# Cody Parsons Branding
+# Cody Parsons  
+**Secure and Logical Validations for AI and Beyond**
 
-Binary-coded identity visuals for Cody Parsons, a privacy-first strategist and API architect.
+Strategic finance meets algorithmic integrity. Cody Parsons builds scalable APIs, decision engines, and validation frameworks for high-stakes environments—where precision isn’t optional and logic leads the way.
 
 ![Binary CP Logo](binary-cp-logo.png)
