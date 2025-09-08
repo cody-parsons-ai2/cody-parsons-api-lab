@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="cody-parsons-logo.png" width="300"/>
+</p>
+
 # Cody Parsons  
 **Secure and Logical Validations for AI and Beyond**
 
