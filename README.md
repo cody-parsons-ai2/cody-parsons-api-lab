@@ -25,3 +25,27 @@ For consulting inquiries, API collaborations, or strategic validation work:
 
 **Email**: [cody.parsons.ai2@proton.me](mailto:cody.parsons.ai2@proton.me)  
 **GitHub**: [github.com/codyparsons](https://github.com/codyparsons)
+## 🧪 Tech Stack
+
+**Languages & Frameworks**  
+- Python (FastAPI, NumPy, Pandas)  
+- JavaScript (Node.js, Express)  
+- SQL (PostgreSQL, BigQuery)  
+- Markdown, JSON, YAML
+
+**Cloud & Infrastructure**  
+- Google Cloud Platform  
+- Azure  
+- GitHub Actions  
+- ngrok (secure tunneling)
+
+**Modeling & Validation**  
+- Monte Carlo simulation  
+- Decision tree modeling  
+- Explainable AI (XAI)  
+- Scenario analysis & NPV/IRR logic
+
+**Privacy & Ops**  
+- ProtonMail, pseudonymous identity setup  
+- Secure endpoint design  
+- Operational branding & metadata control
